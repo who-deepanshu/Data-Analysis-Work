@@ -27,13 +27,20 @@ To see the steps wise data cleaning work it's availabel in **t20_data_preprocess
 ## 4. Data Transformation
 The data is transformed while loading in **POWER BI** tools where data type of some columns are changed, removed the redundency from tables, correction of noisy characters is also taken care off, etc.
 To link the all tables together it's done through **Data Modeling** process in POWER BI so that while visulising them then can react dynamically at run-time filteration.
- 
+
+
+![Screenshot 2023-12-17 000731](https://github.com/who-deepanshu/Data-Analysis-Work/assets/129099978/2a93025c-fc1b-4a43-aa8f-c08106bb0ef9)
+
 ## 5. Visualization 
 After having a ready to go data in all the tables it's time to visualize it by various charts and graphs.
  - **Data Analysis Expressions(DAX) :** These measures are also created while Visualization for for creating calculated columns, measures, and custom tables.
  - All DAX measures are given inside **DAX Measures and Calculated columns.xlsx** file.
  - A visual dashboard is created where we can analyse the performance of each player separately and on the basis of that we'll be able to pick out best playing 11 team.
  - The POWER BI dashboard is given with the file name as - **Final_11.pbix**.
+
+   
+![Screenshot 2023-12-17 000439](https://github.com/who-deepanshu/Data-Analysis-Work/assets/129099978/153446b6-9d33-4f70-84d3-d010916693b6)
+   
 
 Download the zip file to see the in-depth project work.
 
