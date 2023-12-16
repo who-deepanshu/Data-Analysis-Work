@@ -33,4 +33,7 @@ After having a ready to go data in all the tables it's time to visualize it by v
  - **Data Analysis Expressions(DAX) :** These measures are also created while Visualization for for creating calculated columns, measures, and custom tables.
  - All DAX measures are given inside **DAX Measures and Calculated columns.xlsx** file.
  - A visual dashboard is created where we can analyse the performance of each player separately and on the basis of that we'll be able to pick out best playing 11 team.
+ - The POWER BI dashboard is given with the file name as - **Final_11.pbix**.
+
+Download the zip file to see the in-depth project work.
 
