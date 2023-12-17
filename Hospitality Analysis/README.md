@@ -30,7 +30,7 @@ After having a ready to go data in all the tables it's time to visualize it by v
 
 ![Screenshot 2023-12-17 104347](https://github.com/who-deepanshu/Data-Analysis-Work/assets/129099978/7dd2c53d-7878-4966-91e8-885f27b36838)
 
-The POWER BI dashboard is given with the file name as - Revenue Insights.pbix.
+The POWER BI dashboard is given with the file name as - **Revenue Insights.pbix**.
 
 #### Download the zip files to go through Dataset and Dashboard.
 
